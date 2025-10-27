@@ -1,0 +1,69 @@
+{
+  "github.copilot.nextEditSuggestions.enabled": true,
+  "explorer.confirmDelete": false,
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.productIconTheme": "fluent-icons",
+  "workbench.startupEditor": "none",
+
+  "vscode_custom_css.imports": [
+    "file:///home/pranab/vsTheme/vscustom.css",
+    "file:///home/pranab/vsTheme/vs-custom.js"
+  ],
+
+  "redhat.telemetry.enabled": true,
+  "code-runner.runInTerminal": true,
+  "code-runner.clearPreviousOutput": true,
+  "files.autoSave": "onWindowChange",
+  "editor.smoothScrolling": true,
+  "editor.cursorBlinking": "expand",
+  "editor.cursorSmoothCaretAnimation": "explicit",
+  "editor.fontSize": 16,
+  "editor.mouseWheelZoom": true,
+  "editor.minimap.enabled": false,
+  "editor.wordWrap": "on",
+  "editor.tabSize": 2,
+
+  "terminal.integrated.fontSize": 16, // Comfortable terminal text
+  "terminal.integrated.smoothScrolling": true, // Smooth scroll in terminal
+  "terminal.integrated.cursorBlinking": true,
+  "github.copilot.enable": {
+    "*": true,
+    "plaintext": false,
+    "markdown": false,
+    "scminput": false,
+    "typescriptreact": true,
+    "javascriptreact": true,
+    "postcss": false,
+    "javascript": true
+  },
+  "explorer.confirmDragAndDrop": false,
+  "git-autoconfig.configList": [
+    {
+      "user.email": "pranabm406@gmail.com",
+      "user.name": "pranab-kr"
+    }
+  ],
+  "chat.agent.maxRequests": 40,
+  "workbench.activityBar.location": "hidden",
+
+  //new
+  "editor.copyWithSyntaxHighlighting": false,
+  "diffEditor.ignoreTrimWhitespace": false,
+  "diffEditor.renderSideBySide": false,
+  // "workbench.editor.showTabs": "none",
+  // "editor.multiCursorModifier": "ctrlCmd",
+  "editor.snippetSuggestions": "top",
+  "editor.detectIndentation": false,
+  "files.trimTrailingWhitespace": true,
+  "files.insertFinalNewline": true,
+  "files.trimFinalNewlines": true,
+  "scm.diffDecorations": "none",
+  "editor.hover.delay": 500,
+  "editor.hover.enabled": true,
+  "editor.lightbulb.enabled": "off",
+  "editor.overviewRulerBorder": false,
+  "editor.renderLineHighlight": "none",
+  "editor.hideCursorInOverviewRuler": true,
+  "workbench.tips.enabled": false,
+  "workbench.colorTheme": "Aura Dark (Soft Text)"
+}
